@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chayakada.aternos.me",
-    "port": 13149,
+    "ip": "aternos.aternos.me",
+    "port": 58069,
     "version": "1.21.1"
   },
   "position": {
